@@ -1,0 +1,169 @@
+.MAJ-pic{
+  max-width: 100%;
+  height: auto;
+  width: 55%;
+  border-radius: 5px;
+  margin-top: -50px;
+}
+.hero-section ,.container{
+  display: grid;
+  place-content: center;
+  height: inherit;
+}
+.bg-main{
+  height: 90vh;
+  position: relative;
+}
+.bg-color{
+  background-color: var(--bs-success);
+}
+.nav-link{
+  color: var(--bs-light);
+  font-weight: bold;
+}
+.text-light-grey{
+  color: var(--bs-light);
+}
+.custom-shape-divider-bottom-1698468337 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1698468337 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 98px;
+}
+
+.custom-shape-divider-bottom-1698468337 .shape-fill {
+  fill: #FFFFFF;
+}
+
+.early-life, .political-career, .struggle-for-indep{
+  padding: 4rem 0 3rem 0;
+}
+.common-heading{
+  font-size: 2.5em;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.common-title{
+  margin-bottom: 4.8rem;
+}
+.young-jinnah{
+  max-width: 70%;
+    height: auto;
+}
+/*.timeline-content{
+  line-height: 1.4;
+  background-color: var(--bs-success);
+  padding:4px;
+  font-size: 13px;
+  position: relative;
+  height: 80px;
+  margin-bottom: 20px;
+  color: whitesmoke;
+  
+
+}
+.timeline-area{
+  margin: 90px auto;
+  width: 360px;
+  border-left: 2px solid #ccc;
+  padding: 0 20px 0 30px;
+  margin-top: 9px;
+}
+.timeline-content ::before{
+  content: " ";
+  display: block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: white;
+  border: 3px solid green;
+  position: absolute;
+  top: 10px;
+  left: -40px;
+}
+.timeline-content::after{
+  content: " ";
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-color: transparent black transparent transparent;
+  border-width: 8px;
+  position: absolute;
+  left: -17px;
+  top: 10px;
+
+}*/
+.political-career{
+  background-color: var(--bs-success);
+}
+.political-jinnah{
+  max-width: 100%;
+  width: 1000px;
+  height: auto;
+}
+.political-info{
+  color: white;
+  font-size: 15px;
+}
+.pak-jinnah{
+  max-width: 100%;
+  width: 1050px;
+  height: 500px;
+}
+.struggle-for-indep{
+  padding-bottom: 200px;
+}
+footer{
+  position: relative;
+  background-color: var(--bs-success);
+  text-align: center;
+  color: #FFFFFF;
+  width: 100%;
+  height: 250px;
+  padding-top: 130px;
+}
+.footer-line{
+  color: black;
+  width: 50%;
+}
+.custom-shape-divider-top-1699699034 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1699699034 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 95px;
+}
+
+.custom-shape-divider-top-1699699034 .shape-fill {
+  fill: #FFFFFF;
+}
+#tribute-link{
+  color: black;
+  margin-top: 10px;
+  text-decoration: none;
+}
+#tribute-link:hover{
+  color: white;
+}
+.quote{
+  padding-bottom: 25px;
+  text-decoration: underline;
+}
